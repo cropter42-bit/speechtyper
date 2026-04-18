@@ -72,10 +72,8 @@ The installer output is created under `release\SpeechTyper-Setup.exe`.
 
 - `Hotkey`: default is `alt`
 - `Microphone`: choose the input device or leave it on Default
-- `Model`: accurate Vosk profile
 
 ## Notes
 
 - The app only types while it is turned on and the hotkey is held.
-- If a model folder is missing, that profile will not work.
 - Some elevated applications may reject injected input unless the app is running with similar permissions.
