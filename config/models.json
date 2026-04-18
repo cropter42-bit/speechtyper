@@ -1,0 +1,12 @@
+{
+  "profiles": [
+    {
+      "id": "accurate-en",
+      "label": "Accurate mode",
+      "description": "Larger English model with better recognition quality.",
+      "model_path": "models/vosk-model-en-us-0.22",
+      "sample_rate": 16000,
+      "chunk_ms": 750
+    }
+  ]
+}

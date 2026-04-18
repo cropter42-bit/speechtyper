@@ -1,0 +1,5 @@
+Write-Host "Download and install Inno Setup 6 from:"
+Write-Host "https://jrsoftware.org/isdl.php"
+Write-Host ""
+Write-Host "After installation, run:"
+Write-Host ".\scripts\build-installer.ps1"
